@@ -6,13 +6,14 @@
 <p> There is a blue background<p>
 <p> The dog is a white puppy</p>
 <p>The VO<sub>2</sub> of this puppy is unknown<p>
+<p><span style="color:red">This is an important message.</span><p>
     </td>
     <td>
       <img src="dogpic.jpg" alt="cute dog photo" align="right">
     </td>
   </tr>
 </table>
-<span style="color:red">This text is red.</span>
+
 
 
 
