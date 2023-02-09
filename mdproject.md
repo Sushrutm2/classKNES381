@@ -5,7 +5,7 @@
 <p> This is an image of cute dog that seems to be sitting on the ground</p>
 <p> There is a blue background<p>
 <p> The dog is a white puppy</p>
-<p>The VO<sub>2</sub> of this puppy is unknown<p>
+<p>The &#x56;&#x0307;O<sub>2</sub> of this puppy is unknown<p>
 <p style="color:red;">This text should be red to show importance.</p>
     </td>
     <td>
@@ -15,31 +15,6 @@
 </table>
 hyperlink to [README.md](https://github.com/Sushrutm2/classKNES381/blob/74885b581634e94106930127a6052d1b6c28e014/README.md "README.md")
 <p>[Search for it.](www.google.com)<p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
+<p style="text-align:center;">&#x56;&#x0307;</p>
 
 
