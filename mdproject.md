@@ -13,8 +13,7 @@
     </td>
   </tr>
 </table>
-hyperlink to [another document]() 
-
+hyperlink to https://github.com/Sushrutm2/classKNES381/blob/74885b581634e94106930127a6052d1b6c28e014/README.md
 
 
 
