@@ -19,7 +19,7 @@
 
 ...
 
-[reference]: https://www.google.com
+[reference]: https://github.com/Sushrutm2/classKNES381/blob/775b97a9805df5812ab6211f2fd17e1ca60b1810/README.md
 
 
 <p style="text-align:center;">&#x56;&#x0307;</p>
