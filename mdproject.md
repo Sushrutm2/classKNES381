@@ -1,4 +1,5 @@
-<p align="center">Title</p>
+<p align="center"><b>Webpage Kind of About Dogs/Puppy<b>
+  
 <table cellpadding="20" align="center">
   <tr>
     <td>
