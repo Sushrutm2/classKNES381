@@ -11,11 +11,10 @@
 This hyperlink contains a secret message: [README.md][reference]
   
 [reference]: https://github.com/Sushrutm2/classKNES381/blob/775b97a9805df5812ab6211f2fd17e1ca60b1810/README.md
+      <a href= "https://github.com/Sushrutm2/classKNES381/blob/fac984d61114b38d9d05f5f469896f017a6b7fa5/subfolder/dogpic.jpg">Link to file in subfolder</a>
     </td>
     <td>
       <img src="dogpic.jpg" alt="cute dog photo" align="right">
     </td>
   </tr>
 </table>
-
-
