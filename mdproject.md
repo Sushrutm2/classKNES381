@@ -24,11 +24,7 @@
 
 <p style="text-align:center;">&#x56;&#x0307;</p>
 
-[Google][reference]
 
-...
-
-[reference]: https://www.google.com
 
 
 
